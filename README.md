@@ -2,12 +2,12 @@
 ![screenshot](Screenshot.png)
 
 ## Description
-This program was a final project for COP3252 (Advanced Java Programming). It represents a classic russian card game called Durak. The project was made by [Ginny Allen](https://github.com/evginny) & [Nicholas Pena](https://github.com/Nick-Pena). <br />
-[You can find game rules here.](https://gathertogethergames.com/durak) 
+This program was a final project for COP3252 (Advanced Java Programming). It represents a classic Russian card game called Durak. The project was made by [Ginny Allen](https://github.com/evginny) & [Nicholas Pena](https://github.com/Nick-Pena). <br />
+[You can find the game rules here.](https://gathertogethergames.com/durak) 
 
 ## UI Explanations
 
-At the center of the screen you can see the currently played cards. At the bottom of the screen is your hand, at the top of the screen is your opponent's hand. To the left is the trump card displayed underneath the remaining deck. At the bottom left there is a button to pass your turn. There is a menu bar at the top for customization.
+At the center of the screen, you can see the currently played cards. At the bottom of the screen is your hand, and at the top of the screen is your opponent's hand. To the left is the trump card displayed underneath the remaining deck. At the bottom left there is a button to pass your turn. There is a menu bar at the top for customization.
 
 If there is a card in play at the start of the hand, you are defending. If there is no card in play at the start of the hand, you are attacking.
 
@@ -19,7 +19,7 @@ If you click the pass button as a defender, and you can't beat the attack then y
 
 ## Extra feature
 
-As an extra feature, there is customization of the card backs and background colors of the panels within the game. All images used in this game are open source.
+As an extra feature, there is the customization of the card backs and background colors of the panels within the game. All images used in this game are open source.
 
 ## Running the Game
 
