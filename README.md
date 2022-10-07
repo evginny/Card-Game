@@ -2,7 +2,7 @@
 ![screenshot](Screenshot.png)
 
 ## Description
-This program was a final project for COP3252 (Advanced Java Programming). It represents a classic Russian card game called Durak. The project was made by [Ginny Allen](https://github.com/evginny) & [Nicholas Pena](https://github.com/Nick-Pena). <br />
+This program was a final project for COP3252 (Advanced Java Programming). It represents a classic Russian card game called Durak. The project was made by Evgeniya Kalashnikova & Nicholas Pena. <br />
 [You can find the game rules here.](https://gathertogethergames.com/durak) 
 
 ## UI Explanations
