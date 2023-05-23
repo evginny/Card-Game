@@ -1,4 +1,6 @@
-# Durak-Card-Game-
+# Durak Card Game
+======
+Made by [Nicholas Pena](https://github.com/Nick-Pena) & [Ginny Allen](https://github.com/evginny).
 ![screenshot](Screenshot.png)
 
 ## Description
