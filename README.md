@@ -1,5 +1,5 @@
 # Durak Card Game
-Made by [Nicholas Pena](https://github.com/Nick-Pena) & [Evgeniya Kalashnikova a.k.a Ginny](https://github.com/evginny).
+Made by [Evgeniya Kalashnikova a.k.a Ginny](https://github.com/evginny) & [Nicholas Pena](https://github.com/Nick-Pena).
 ![screenshot](Screenshot.png)
 
 ## Description
